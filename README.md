@@ -45,7 +45,7 @@ To get your cookie:
 3. Go to Application/Storage → Cookies
 4. Copy the relevant cookie values (you may need multiple cookies separated by semicolons)
 
-**Note**: The cookie is used to bypass paywalls and access subscriber content. Make sure to keep it secure and don't commit it to version control.
+**Note**: The cookie is used to bypass paywalls and access subscriber content. You'll still need your own subscription. Make sure to keep it secure and don't commit it to version control.
 
 ## Usage
 
